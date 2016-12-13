@@ -32,7 +32,7 @@ local unitDef  =  {
     MaxSlope = 15,
     MaxVelocity = 2.0,
     MaxWaterDepth = 20,
-    MovementClass = "Default2x2",
+    MovementClass = "Ground2x2",
     TurnRate = 900,
     
 --Abilities
