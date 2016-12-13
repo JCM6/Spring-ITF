@@ -1,0 +1,56 @@
+local unitName = "base"
+
+local unitDef = 
+{
+-- Internal settings
+	buildpic = "base.bmp",
+	Category = "BUILDING NOTSCOUT NOTHEAVY NOTAIR NOTSHIP NOTEPIC NOTSTEALTHY ALL",
+	objectname = "base2.s3o",
+	side = "TANKS",
+	tedclass = "PLANT", -- very important! Without this line, the building won't act like a factory!
+	script = "basescript.lua",
+	
+-- Unit limitations and properties
+	activatewhenbuilt = true,
+	buildtime = 1000,
+	description = "Produces Units",
+	maxdamage = 2500,
+	name = "Factory",
+	radardistance = 0,
+	sightdistance = 400,
+	soundcategory = "BUILDING",
+	upright = true,
+	workertime = 80,
+	levelground = true,
+	
+-- Energy and metal related
+	buildcostenergy = 500,
+	energystorage = 0,
+	energyuse = 0,
+	metalstorage = 0,
+	energymake = 5, 
+	makesmetal = 0, 
+	metalmake = 0, 
+	
+-- Pathfinding and related
+	footprintx = 4,
+	footprintz = 4,
+	maxslope = 10,
+	maxwaterdepth = 0,
+	yardmap = "y",
+	
+-- Abilities
+	builder = true,
+    reclaimable = false,
+	shownanospray = false,
+	canbeassisted = false,
+	buildoptions = {
+		"tank",
+		"builder",
+	},
+
+-- Weapons and related
+	explodeas = "TANKDEATH",
+}
+
+return lowerkeys({ [unitName] = unitDef })
