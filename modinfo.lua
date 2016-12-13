@@ -2,8 +2,8 @@ local modinfo = {
 	name = "Into the Fallowland",
 	shortname = "ITF",
 	game = "Into the Fallowland",
-	shortgame = "Basegame",
-	description = "Base",
+	shortgame = "BaseITF",
+	description = "A distopian fantasy themed RTS mod.",
 	url = "http://www.somewebsite.com/",
 	
 	modtype = "1",
