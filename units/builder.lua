@@ -33,7 +33,7 @@ local unitDef =
 	MaxVelocity = 4.0,
 	MaxWaterDepth = 12,
 	TurnRate = 900,
-	movementclass = "default2x2",
+	movementclass = "Ground2x2",
 	
 -- Abilities
 	Builder = 1,
