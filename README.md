@@ -4,10 +4,16 @@ Spring RTS Mod Into the Fallowland
 Description:
 A dystopian fantasy themed RTS. Some factions are high magic, while others are low. Some are aligned to good, while others have aligned with evil.
 
-Mechanics
+Key Features:
 Day/Night: Changes fog of war visibility and some unit stats
+
 Unique Factions
 
+Branching Build Paths
+
+Signle Resource Management
+
+Focus on unit tactics and comps
 
 Factions:
 
