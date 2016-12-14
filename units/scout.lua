@@ -5,7 +5,7 @@ local unitDef  =  {
     BuildPic = "filename.bmp",
     Category = "TANK SMALL NOTAIR NOTSUB",
     ObjectName = "tank3.s3o",
-    name = "Generic Tank",
+    name = "Generic Scout",
     Side = "TANKS",
     TEDClass = "TANK",
     UnitName = "scout",
@@ -33,7 +33,7 @@ local unitDef  =  {
     MaxVelocity = 5.0,
     MaxWaterDepth = 20,
     MovementClass = "Ground2x2",
-    TurnRate = 900,
+    TurnRate = 1200,
     
 --Abilities
     Builder = 0,
@@ -69,7 +69,7 @@ local weaponDefs = {
 		weapontype = "Cannon",
 		accuracy = 10,
 		areaofeffect = 100,
-		avoidfeature = false,
+		avoidfeature = true,
 		avoidfriendly = true,
 		canattackground = true,
 		collidefriendly = true,
@@ -86,16 +86,16 @@ local weaponDefs = {
 		size = 4,
 --        soundstart = "tank_fire",
         soundhit = "orangeblob_explo",
-		range = 250,
+		range = 2500,
 		reloadtime = 1.5,
 		rgbcolor = "1.0 1.0 1.0",
 		turret = true,
 		texture1 = "flame",
-		weaponvelocity = 400,
+		weaponvelocity = 4000,
 		explosiongenerator = "custom:TANKGUN_FX",
 		damage =
 		{
-			default = 55,
+			default = 5,
 		},
 	},
 }
