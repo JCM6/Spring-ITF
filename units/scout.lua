@@ -9,7 +9,7 @@ local unitDef  =  {
     Side = "TANKS",
     TEDClass = "TANK",
     UnitName = "scout",
-    script = "tankscript.lua",
+    script = "scoutscript.lua",
     
 --Unit limitations and properties
     BuildTime = 100,
