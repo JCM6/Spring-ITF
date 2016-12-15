@@ -73,22 +73,22 @@ M0: Rochalle's Chosen
 M1: Wilderness Outpost
 -Cost: 5500 Energy
 -Generates: 250 Energy Per Second
--Builds: Wayfarer, 
+-Builds: Wayfarer, Scouts
 
 M2: Greenhollow Keep 
 -Cost: 10500 Energy
 -Generates: 550 Energy Per Second
--Builds: Riders, 
+-Builds: Riders, Retainers
 
 M3: Fortress
 -Cost: 20500 Energy
 -Generates: 5500 Energy Per Second
--Builds: Lunar Bastion
+-Builds: 
 
 M4: Monument
 -Cost: 30500 Energy
 -Generates: 50500 Energy Per Second
--Builds: Oversoul Figurehead
+-Builds: 
 
 --------------------------------------------------------------------
 Volidean - Need to update below
