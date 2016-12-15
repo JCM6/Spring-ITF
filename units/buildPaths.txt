@@ -1,0 +1,24 @@
+Build Paths and other stuff (Mainly Focusing on builders here)
+-Heroes Cost Metal 10000
+-Other Units Cost only Energy
+ID: Name:
+00 Portal
+-All build paths start with this builder
+-All units spawned from this builder cost 10000 Metal
+--------------------------------------------------------------------
+Tylanian
+--------------------------------------------------------------------
+10: Tylanian Necromancer Supreme
+-Cost: 10000 Metal
+
+11: Tylanian Mound
+-Cost: 5500 Energy
+-Generates: 250 Energy Per Second
+-Builds: Zombie units
+
+12: Tylanian Citadel
+-Cost: 10500 Energy
+-Generates: 550 Energy Per Second
+-Builds: Dark Knights, Wyverns
+
+--------------------------------------------------------------------
