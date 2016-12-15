@@ -90,3 +90,31 @@ M4: Monument
 -Generates: 50500 Energy Per Second
 -Builds: Oversoul Figurehead
 
+--------------------------------------------------------------------
+Volidean - Need to update below
+--------------------------------------------------------------------
+M0: Rochalle's Chosen
+-Cost: 10000 Metal
+-Unable to Move
+-Build Range: 30000
+-Builds: Shimmering Veil
+
+M1: Wilderness Outpost
+-Cost: 5500 Energy
+-Generates: 250 Energy Per Second
+-Builds: Wayfarer, 
+
+M2: Greenhollow Keep 
+-Cost: 10500 Energy
+-Generates: 550 Energy Per Second
+-Builds: Riders, 
+
+M3: Fortress
+-Cost: 20500 Energy
+-Generates: 5500 Energy Per Second
+-Builds: Lunar Bastion
+
+M4: Monument
+-Cost: 30500 Energy
+-Generates: 50500 Energy Per Second
+-Builds: Oversoul Figurehead
