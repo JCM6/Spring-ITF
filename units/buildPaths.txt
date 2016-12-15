@@ -80,12 +80,12 @@ M2: Greenhollow Keep
 -Generates: 550 Energy Per Second
 -Builds: Riders, 
 
-M3: Astral Anchor 
+M3: Fortress
 -Cost: 20500 Energy
 -Generates: 5500 Energy Per Second
 -Builds: Lunar Bastion
 
-M4: Greater Rift
+M4: Monument
 -Cost: 30500 Energy
 -Generates: 50500 Energy Per Second
 -Builds: Oversoul Figurehead
