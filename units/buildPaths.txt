@@ -1,6 +1,9 @@
 Build Paths and other stuff (Mainly Focusing on builders here)
 -Heroes Cost Metal 10000
 -Other Units Cost only Energy
+--------------------------------------------------------------------
+Starter Building
+--------------------------------------------------------------------
 ID: Name:
 00 Portal
 -All build paths start with this builder
@@ -8,17 +11,82 @@ ID: Name:
 --------------------------------------------------------------------
 Tylanian
 --------------------------------------------------------------------
-10: Tylanian Necromancer Supreme
+T0: Tylanian Necromancer
 -Cost: 10000 Metal
+-Unable to Move
+-Build Range: 30000
+-Builds: Tylanian Mound, Zombies
 
-11: Tylanian Mound
+T1: Tylanian Mound
 -Cost: 5500 Energy
 -Generates: 250 Energy Per Second
--Builds: Zombie units
+-Builds: Zombies, Lesser Lithomancer (Builder)
 
-12: Tylanian Citadel
+T3: Tylanian Citadel
 -Cost: 10500 Energy
 -Generates: 550 Energy Per Second
 -Builds: Dark Knights, Wyverns
 
+T4: Dark Spire
+-Cost: 30500 Energy
+-Generates: 550 Energy Per Second
+-Builds: Soul Chainer
+
 --------------------------------------------------------------------
+Malfaedon
+--------------------------------------------------------------------
+M0: Acolyte of the Lunelands
+-Cost: 10000 Metal
+-Unable to Move
+-Build Range: 30000
+-Builds: Minor Rift
+
+M1: Minor Rift
+-Cost: 5500 Energy
+-Generates: 250 Energy Per Second
+-Builds: Portal Supplicant (Builder)
+
+M2: Cykric Resonator 
+-Cost: 10500 Energy
+-Generates: 550 Energy Per Second
+-Builds: Essence Reavers, Visage Stalker
+
+M3: Astral Anchor 
+-Cost: 20500 Energy
+-Generates: 5500 Energy Per Second
+-Builds: Lunar Bastion
+
+M4: Greater Rift
+-Cost: 30500 Energy
+-Generates: 50500 Energy Per Second
+-Builds: Oversoul Figurehead
+
+--------------------------------------------------------------------
+Baldarim
+--------------------------------------------------------------------
+M0: Rochalle's Chosen
+-Cost: 10000 Metal
+-Unable to Move
+-Build Range: 30000
+-Builds: Shimmering Veil
+
+M1: Wilderness Outpost
+-Cost: 5500 Energy
+-Generates: 250 Energy Per Second
+-Builds: Wayfarer, 
+
+M2: Greenhollow Keep 
+-Cost: 10500 Energy
+-Generates: 550 Energy Per Second
+-Builds: Riders, 
+
+M3: Astral Anchor 
+-Cost: 20500 Energy
+-Generates: 5500 Energy Per Second
+-Builds: Lunar Bastion
+
+M4: Greater Rift
+-Cost: 30500 Energy
+-Generates: 50500 Energy Per Second
+-Builds: Oversoul Figurehead
+
