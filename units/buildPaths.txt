@@ -102,12 +102,12 @@ M0: Rochalle's Chosen
 M1: Wilderness Outpost
 -Cost: 5500 Energy
 -Generates: 250 Energy Per Second
--Builds: Wayfarer, 
+-Builds: Wayfarer, Acolyte
 
 M2: Greenhollow Keep 
 -Cost: 10500 Energy
 -Generates: 550 Energy Per Second
--Builds: Riders, 
+-Builds: Mist Riders, Eternal Blade
 
 M3: Fortress
 -Cost: 20500 Energy
