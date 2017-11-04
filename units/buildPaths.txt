@@ -25,12 +25,12 @@ T1: Tylanian Mound
 T3: Tylanian Citadel
 -Cost: 10500 Energy
 -Generates: 550 Energy Per Second
--Builds: Dark Knights, Wyverns
+-Builds: Dark Knights, Wyverns, Zombies
 
 T4: Dark Spire
 -Cost: 30500 Energy
 -Generates: 550 Energy Per Second
--Builds: Soul Chainer
+-Builds: Soul Chainer, Zombie Giant
 
 --------------------------------------------------------------------
 Malfaedon
@@ -54,19 +54,19 @@ M2: Cykric Resonator
 M3: Astral Anchor 
 -Cost: 20500 Energy
 -Generates: 5500 Energy Per Second
--Builds: Lunar Bastion
+-Builds: Lunar Bastion, Roilsoul
 
 M4: Greater Rift
 -Cost: 30500 Energy
 -Generates: 50500 Energy Per Second
--Builds: Oversoul Figurehead
+-Builds: Oversoul Figurehead, Avatar of Corvantus
 
 --------------------------------------------------------------------
 Baldarim
 --------------------------------------------------------------------
-M0: Rochalle's Chosen
+M0: Rochalle's Chosen (Builder)
 -Cost: 10000 Metal
--Unable to Move
+-Able to Move
 -Build Range: 30000
 -Builds: Shimmering Veil
 
@@ -74,45 +74,54 @@ M1: Wilderness Outpost
 -Cost: 5500 Energy
 -Generates: 250 Energy Per Second
 -Builds: Wayfarer, Scouts
+-Turret: Yes
 
 M2: Greenhollow Keep 
 -Cost: 10500 Energy
 -Generates: 550 Energy Per Second
--Builds: Riders, Retainers
+-Builds: Riders, Retainers, 
 
-M3: Fortress
+M3: Keep of the Eternal Guide
 -Cost: 20500 Energy
 -Generates: 5500 Energy Per Second
--Builds: 
+-Builds: Rochalle's Chosen, 
 
-M4: Monument
+M4: Monument to The Lady Roechalle
 -Cost: 30500 Energy
 -Generates: 50500 Energy Per Second
--Builds: 
+-Builds: Avatar of The Lady
+-Turret: Yes
 
 --------------------------------------------------------------------
-Volidean - Need to update below
+Volidean 
 --------------------------------------------------------------------
-M0: Rochalle's Chosen
+M0: Volidean Outlander (Builder)
 -Cost: 10000 Metal
--Unable to Move
+-Able to Move
 -Build Range: 30000
--Builds: Shimmering Veil
+-Builds: Postpile Lexicon
 
-M1: Wilderness Outpost
+M1: Postpile Lexicon
 -Cost: 5500 Energy
 -Generates: 250 Energy Per Second
--Builds: Wayfarer, Acolyte
+-Builds: N/A
+-Turret: Yes
 
-M2: Greenhollow Keep 
+M1: Summoning Stones
+-Cost: 5500 Energy
+-Generates: 250 Energy Per Second
+-Builds: Coilmancer, Stalwart Warden
+
+M2: Obelisk of the Endless Coil
 -Cost: 10500 Energy
 -Generates: 550 Energy Per Second
--Builds: Mist Riders, Eternal Blade
+-Builds: Volidean Outlander, Eternal Blade
+-Turret: Yes
 
-M3: Fortress
+M3: Nolithom Bulwark
 -Cost: 20500 Energy
 -Generates: 5500 Energy Per Second
--Builds: Lunar Bastion
+-Builds: 
 
 M4: Monument
 -Cost: 30500 Energy
